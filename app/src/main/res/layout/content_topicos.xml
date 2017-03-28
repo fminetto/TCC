@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="br.edu.ifsp.arq.guiadapolticaecidadania.TopicosActivity"
+    tools:showIn="@layout/app_bar_topicos">
+
+        <ScrollView
+            android:fillViewport="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <br.edu.ifsp.arq.guiadapolticaecidadania.TextviewJustificado
+                    android:id="@+id/textjustified"
+                    android:visibility="visible"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_below="@id/textjustified"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="@style/desliza_textappearence"
+                    android:id="@+id/deslize"
+                    android:text="@string/deslize_string"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_below="@id/deslize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="@style/referencia_textappearence"
+                    android:id="@+id/referencia"
+                    android:text="@string/deslize_string"/>
+
+                <Button
+                    style="@style/saibamais_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/saibamais_item"
+                    android:id="@+id/saibamais"
+                    android:visibility="invisible"/>
+            </LinearLayout>
+        </ScrollView>
+</RelativeLayout>

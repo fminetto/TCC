@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+      Layout de visualização dos itens do menu principal. Neste layout estão definidos os itens do
+    menu inicial da aplicação.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/guia_item"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            style="@style/inicial_imageviewstyle"
+            android:src="@drawable/ic_developer_board_white_48dp"/>
+        <TextView
+            style="@style/inicial_textviewstyle"
+            android:text="@string/guia_item"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:id="@+id/sobre_item"
+        android:layout_below="@id/guia_item"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            style="@style/inicial_imageviewstyle"
+            android:src="@drawable/ic_info_outline_white_48dp"/>
+        <TextView
+            style="@style/inicial_textviewstyle"
+            android:text="@string/sobre_item"/>
+    </LinearLayout>
+</LinearLayout>

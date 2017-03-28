@@ -1,0 +1,208 @@
+<resources>
+    <string name="app_name">Guia de Política e Cidadania</string>
+
+    <!-- Lista de textos do menu inicial -->
+    <string name="guia_item">GUIA DE POLÍTICA E CIDADANIA</string>
+    <string name="sobre_item">SOBRE O GUIA</string>
+
+    <!-- Títulos dos grupos -->
+    <string name="sispol_title">Sistema Político Brasileiro</string>
+    <string name="trespo_title">Os Três Poderes</string>
+    <string name="repre_title">Funções dos Representantes</string>
+    <string name="partidos_title">Partidos Políticos</string>
+    <string name="sisele_title">Sistema Eleitoral e Eleições</string>
+    <string name="culpol_title">Cultura Política</string>
+    <string name="cidadania_title">Cidadania, Direitos e Deveres</string>
+    <string name="dirtra_title">Direitos e Deveres Trabalhistas</string>
+    <string name="imposto_title">Impostos</string>
+
+    <!-- Subitens (filhos) dos grupos -->
+    <string name="sispol_subitem1">O que é Monarquia?</string>
+    <string name="sispol_subitem2">O que é República?</string>
+    <string name="sispol_subitem3">O que é Parlamentarismo?</string>
+    <string name="sispol_subitem4">O que é Presidencialismo?</string>
+    <string name="sispol_subitem5">O que é Estado Unitário?</string>
+    <string name="sispol_subitem6">O que é Estado Federativo?</string>
+    <string name="sispol_subitem7">O que é Participação Política?</string>
+    <string name="sispol_subitem8">O que são direitos políticos?</string>
+    <string name="sispol_subitem9">O que é Plebiscito?</string>
+    <string name="sispol_subitem10">O que é Referendo?</string>
+    <string name="sispol_subitem11">O que é Iniciativa Popular?</string>
+    <string name="sispol_subitem12">O que é Audiência Pública?</string>
+    <string name="sispol_subitem13">O que é uma Democracia Representativa?</string>
+
+    <string name="trespo_subitem1">O que faz o poder executivo?</string>
+    <string name="trespo_subitem2">O que faz o poder legislativo?</string>
+    <string name="trespo_subitem3">O que faz o poder judiciário?</string>
+    <string name="trespo_subitem4">O que são Instituições de Controle?</string>
+
+    <string name="repre_subitem1">O que faz o Presidente?</string>
+    <string name="repre_subitem2">O que fazem os Governadores?</string>
+    <string name="repre_subitem3">O que fazem os Prefeitos?</string>
+    <string name="repre_subitem4">O que fazem os Senadores?</string>
+    <string name="repre_subitem5">O que fazem os Vereadores?</string>
+
+    <string name="partido_subitem1">O que são os partidos políticos?</string>
+    <string name="partido_subitem2">O que é sistema partidário?</string>
+    <string name="partido_subitem3">Por que temos tantos partidos políticos no Brasil?</string>
+    <string name="partido_subitem4">Quais são os partidos políticos existentes no Brasil?</string>
+    <string name="partido_subitem5">O que são coligações partidárias?</string>
+    <string name="partido_subitem6">Como os(as) candidatos(as) são escolhido(as)s dentro dos partidos no Brasil?</string>
+    <string name="partido_subitem7">O que é candidatura avulsa?</string>
+    <string name="partido_subitem8">De onde vêm os recursos dos partidos políticos?</string>
+
+    <string name="sisele_subitem1">O que é o sistema eleitoral?</string>
+    <string name="sisele_subitem2">Quais as regras do sistema eleitoral majoritário no Brasil?</string>
+    <string name="sisele_subitem3">Quais as regras do sistema eleitoral proporcional no Brasil?</string>
+    <string name="sisele_subitem4">O que é voto branco?</string>
+    <string name="sisele_subitem5">O que é voto nulo?</string>
+    <string name="sisele_subitem6">O que são votos válidos?</string>
+    <string name="sisele_subitem7">O que é voto de legenda?</string>
+    <string name="sisele_subitem8">Nas eleições para o Legislativo, se eu votar em um(a) candidato(a) pode ser que o voto nele(a) ajude a eleger outro(a) candidato(a)?</string>
+    <string name="sisele_subitem9">Quais são as regras para financiamento de campanha?</string>
+    <string name="sisele_subitem10">O que eu preciso para ser candidato(a)?</string>
+
+    <string name="culpo_subitem1">O que é tolerância?</string>
+    <string name="culpo_subitem2">O que é associativismo?</string>
+    <string name="culpo_subitem3">O que é personalismo?</string>
+    <string name="culpo_subitem4">O que é lei?</string>
+    <string name="culpo_subitem5">O que é bem público?</string>
+
+    <string name="cidadania_subitem1">O que é cidadania?</string>
+    <string name="cidadania_subitem2">O que significa a expressão "direitos e deveres"?</string>
+    <string name="cidadania_subitem3">O que são direitos civis?</string>
+    <string name="cidadania_subitem4">O que é direito de associação?</string>
+    <string name="cidadania_subitem5">O que é a Declaração Universal dos Direitos Humanos?</string>
+    <string name="cidadania_subitem6">O que são direitos sociais?</string>
+    <string name="cidadania_subitem7">O que é direito à saúde?</string>
+    <string name="cidadania_subitem8">O que é direito à educação?</string>
+    <string name="cidadania_subitem9">O que é direito ao esporte?</string>
+    <string name="cidadania_subitem10">O que é direito ao lazer?</string>
+    <string name="cidadania_subitem11">O que é direito à alimentação?</string>
+    <string name="cidadania_subitem12">O que é direito à habitação?</string>
+    <string name="cidadania_subitem13">O que é direito à segurança?</string>
+    <string name="cidadania_subitem14">O que são os direitos das minorias?</string>
+    <string name="cidadania_subitem15">O que é gênero?</string>
+    <string name="cidadania_subitem16">O que significa igualdade de gênero?</string>
+    <string name="cidadania_subitem17">O que é raça?</string>
+    <string name="cidadania_subitem18">O que é etnia?</string>
+    <string name="cidadania_subitem19">O que significa igualdade racial e étnica?</string>
+
+    <string name="dirtra_subitem1">O que é sindicato?</string>
+    <string name="dirtra_subitem2">É necessário ser filiado(a) a um sindicato para que ele defenda os direitos do(a) trabalhador(a)?</string>
+    <string name="dirtra_subitem3">O que são horas-extras?</string>
+    <string name="dirtra_subitem4">Quais são as condições difíceis e perigosas de trabalho?</string>
+    <string name="dirtra_subitem5">O que é FGTS?</string>
+
+    <string name="imposto_subitem1">O que é Imposto?</string>
+    <string name="imposto_subitem2">O que é IRRF?</string>
+    <string name="imposto_subitem3">O que é IPTU?</string>
+    <string name="imposto_subitem4">O que é ITR?</string>
+    <string name="imposto_subitem5">O que é ISS?</string>
+    <string name="imposto_subitem6">O que é IPVA?</string>
+    <string name="imposto_subitem7">O que é COFINS?</string>
+    <string name="imposto_subitem8">O que é ICMS?</string>
+    <string name="imposto_subitem9">O que é IRPJ?</string>
+    <string name="imposto_subitem10">O que é sonegação de impostos?</string>
+
+    <!-- Texto de boas vindas ao aplicativo -->
+    <string name="welcome_string">Olá! Seja bem-vindo(a) ao Guia de Política de Cidadania. Este é um projeto de parceria entre o Instituto Federal de São Paulo - Câmpus Araraquara e o Laboratório de Política e Governo da UNESP/FCLAr.</string>
+    <string name="deslize_string">Deslize o dedo para a direita para acessar o menu.</string>
+
+    <string name="pesquisa">Pesquisar</string>
+    <string name="saibamais_item">Saiba Mais</string>
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
+    <string name="title_activity_sobre">Sobre o Guia</string>
+    <string name="sobre_large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
