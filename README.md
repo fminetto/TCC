@@ -2,6 +2,8 @@
 
 Aplicativo para dispositivos Android com conteúdo sobre política.
 
+### Atenção, o código encontra-se na pasta SRC, é esta pasta que deve ser apontada no Android Studio
+
 ## Preparando o ambiente
 
 * Instale o [Android Studio.](d.android.com)
@@ -30,4 +32,4 @@ Para habilitar o modo desenvolvedor vá em Configurações > Sobre o Telefone. C
 Verifique se seu dispositivo está com depuração USB ativado. Permita o computador (aparece um mac address referente ao seu computador), e pressione executar no Android Studio. 
 
 ## Autor
-* Felipe Minetto - fminetto44@gmail.com 
+* Felipe Minetto - fminetto44@gmail.com  
